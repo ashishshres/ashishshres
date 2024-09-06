@@ -6,7 +6,7 @@
   
 I'm learning ReactJS ⚛️, passionate about web development, design, and love meeting new people!
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishshres&show=reviews,prs_merged,prs_merged_percentage&theme=rose_pine)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishshres&show_icons=true&theme=rose_pine)
 
 
 <!--
