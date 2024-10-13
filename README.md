@@ -4,7 +4,7 @@
 [![Linkedin: Ashish Shrestha](https://img.shields.io/badge/-Ashish%20Shrestha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishshrestha/)](https://www.linkedin.com/in/ashishshrestha/)
 [![Twitter: Ashish Shrestha](https://img.shields.io/twitter/follow/ashishshr27?style=social)](https://twitter.com/ashishshr27)
   
-I'm learning ReactJS ⚛️, passionate about data, machine learning and design, and love meeting new people!
+I'm passionate about data, machine learning and design, and love meeting new people!
 
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishshres&show_icons=true&theme=rose_pine)
 
